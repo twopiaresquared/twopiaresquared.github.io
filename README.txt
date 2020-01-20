@@ -1,23 +1,11 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+THE MATHEMATICS OF CODING
+This is a space where you will find how I integrated my love for mathematics in my software development projects (and some college projects).
 
+AND "HELLO WORLD!"
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+MY NAME IS SHREYAS
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
+I am a Mathematician turned Computer Scientist at Rutgers University. I'm extremely passionate about Mathematics. However, in the recent times I have observed that Mathematics is written in form of a code and applied in real world, it can do wonders. Here is a little snippet of that!
 Credits:
 
 	Demo Images:
